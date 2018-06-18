@@ -1,0 +1,2 @@
+# training-kit
+Learn stuff
